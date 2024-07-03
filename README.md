@@ -8,7 +8,7 @@ I'm &Jscr;oão &Vscr;itor &phmmat;ariano &Dfr;a &Sscr;ilva
 <br />
 <hr />
 <br />
-<h5>- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NODE, REACT</h5>
-<h6> &emsp; (&zigrarr; Estou aprendendo HTML, CSS, JavaScript, SQL, NODE, REACT atualmente)</h6>
+<h5>- 🌱 I’m currently learning Java</h5>
+<h6> &emsp; (&zigrarr; Estou aprendendo Java atualmente)</h6>
 <h5>- 📫 How to reach me on discord: Dev Sorvete#8365</h5>
 <h6> &emsp; (&phone; Se quiser, vamos comversar pelo Discord) </h6>
