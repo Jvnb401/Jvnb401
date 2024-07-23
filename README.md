@@ -48,10 +48,10 @@ Para relaxar gosto de assistir series, animes 🎥 e ler comics e webtoons, 📱
 
 ## Github stats
 
-<div valign="middle">
+<div align="center" valign="middle">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvnb401&show_icons=true&theme=transparent&border_color=22f&text_color=EEB)](https://github.com/Jvnb401/github-readme-stats)         
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvnb401&show_icons=true&theme=transparent&border_color=22f)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvnb401&show_icons=true&theme=transparent&border_color=22f)         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&layout=compact&card_width=468&langs_count=6&show_icons=true&theme=transparent&border_color=22f&text_color=EEB&username=Jvnb401)](https://github.com/Jvnb401/github-readme-stats)
 
 </div>
 
